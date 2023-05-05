@@ -6,7 +6,11 @@ p {
 h {
   font-size: 150%;
   font-family: 'Calibri';
-  color: cornflowerblue;
+}
+
+h1 {
+  font-size: 150%;
+  font-family: 'Calibri';
 }
 
 ul {
