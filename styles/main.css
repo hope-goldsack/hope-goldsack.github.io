@@ -3,3 +3,13 @@ p {
   font-family: 'Calibri';
 }
 
+h {
+  font-size: 150%;
+  font-family: 'Calibri';
+  color: cornflowerblue;
+}
+
+ul {
+  font-size: 100%;
+  font-family: 'Calibri';
+}
