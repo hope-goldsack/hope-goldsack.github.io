@@ -17,3 +17,12 @@ ul {
   font-size: 100%;
   font-family: 'Calibri';
 }
+
+img {
+  width: 250px;
+  padding-left: 150px;
+}
+
+body {
+  background-color: #C3FFE7
+}
