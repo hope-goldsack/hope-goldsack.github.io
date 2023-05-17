@@ -1,3 +1,21 @@
+.column {
+  float: left;
+  }
+
+  .left {
+    width: 70%;
+  }
+  
+  .right {
+    width: 30%;
+  }
+
+  .row:after {
+  content: "";
+  display: table;
+  clear: both;
+  }
+
 p {
   font-size: 100%;
   font-family: 'Calibri';
@@ -5,24 +23,38 @@ p {
 
 h {
   font-size: 150%;
-  font-family: 'Calibri';
+  font-family: monospace;
 }
 
 h1 {
   font-size: 150%;
-  font-family: 'Calibri';
+  font-family: monospace;
 }
 
 ul {
   font-size: 100%;
-  font-family: 'Calibri';
+  font-family: monospace;
 }
 
 img {
   width: 250px;
-  padding-left: 150px;
+  padding-left: 75px;
 }
 
 body {
   background-color: #ffffff
+}
+
+#welcome-text {
+  background-color: plum
+}
+
+div {
+  font-size: medium;
+  font-family: monospace;
+}
+
+p {
+  font-size: medium;
+  font-family: monospace;
 }
