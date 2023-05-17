@@ -23,27 +23,23 @@ p {
 
 h {
   font-size: 150%;
-  font-family: monospace;
+  font-family: 'Lucida Sans';
 }
 
 h1 {
-  font-size: 150%;
-  font-family: monospace;
+  font-size: 120%;
+  font-family: 'Lucida Sans';
 }
 
 ul {
   font-size: 100%;
-  font-family: monospace;
+  font-family: 'Lucida Sans';
 }
 
 img {
   width: 250px;
-  padding-left: 75px;
-}
-
-body {
-  background-color: #ffffff
-}
+  border-radius: 15%;
+  }
 
 #welcome-text {
   background-color: plum
@@ -51,10 +47,17 @@ body {
 
 div {
   font-size: medium;
-  font-family: monospace;
+  font-family: 'Lucida Sans';
 }
 
 p {
   font-size: medium;
-  font-family: monospace;
+  font-family: 'Lucida Sans';
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
