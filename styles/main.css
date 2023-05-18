@@ -68,3 +68,7 @@ p {
 .bold-text {
   font-weight: bold;
 }
+
+.it-text {
+  font-style: italic;
+}
