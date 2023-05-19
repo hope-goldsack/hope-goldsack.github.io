@@ -18,26 +18,28 @@
 
 p {
   font-size: 100%;
-  font-family: 'Calibri';
+  font-family: 'Calibri', sans-serif;
 }
 
 h {
   font-size: 150%;
-  font-family: 'Lucida Sans';
+  font-family: 'Lucida Sans', sans-serif;
 }
 
 h1 {
   font-size: 120%;
-  font-family: 'Lucida Sans';
+  font-family: 'Lucida Sans', sans-serif;
 }
 
 ul {
   font-size: 100%;
-  font-family: 'Lucida Sans';
+  font-family: 'Lucida Sans', sans-serif;
 }
 
 img {
   border-radius: 5%;
+  width: 75%;
+  height: auto;
   }
 
 #welcome-text {
@@ -46,12 +48,12 @@ img {
 
 div {
   font-size: medium;
-  font-family: 'Lucida Sans';
+  font-family: 'Lucida Sans', sans-serif;
 }
 
 p {
   font-size: medium;
-  font-family: 'Lucida Sans';
+  font-family: 'Lucida Sans', sans-serif;
 }
 
 .center {
