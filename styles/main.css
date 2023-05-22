@@ -1,3 +1,10 @@
+@media (max-width: 600px) {
+  .column {
+    float: none;
+    width: 100%;
+  }
+}
+
 .column {
   float: left;
   }
