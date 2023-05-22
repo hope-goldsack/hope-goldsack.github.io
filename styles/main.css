@@ -19,12 +19,13 @@
 p {
   font-size: 100%;
   font-family: 'Calibri', sans-serif;
+  padding-right: 25px;
 }
 
-h {
+h2 {
   font-size: 150%;
   font-family: 'Lucida Sans', sans-serif;
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 h1 {
