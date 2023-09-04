@@ -83,3 +83,10 @@ body {
 .it-text {
   font-style: italic;
 }
+
+.centers {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
